@@ -4,5 +4,5 @@
 This is the personal repository of Tiago Duarte
 I'll keep updating this repository as I advance through my cybersecurity course.
 ## Folder Structure
-|- exercises/ # All the scripts, bash, powershell, python go here. <br>
-|_ resources/ # All the helpful resources you come across in your journey go here. 
+|- Exercises/ # All the scripts, bash, powershell, python go here. <br>
+|_ Resources/ # All the helpful resources you come across in your journey go here. 
